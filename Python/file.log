@@ -1,227 +1,118 @@
-INFO   2023-03-13 18:54:15,603   All setting of the logging is done
-INFO   2023-03-13 18:54:15,605   All paths are defined
-INFO   2023-03-13 18:54:16,322   aprx project is read
-INFO   2023-03-13 19:02:48,399   All setting of the logging is done
-INFO   2023-03-13 19:02:48,401   All paths are defined
-INFO   2023-03-13 19:02:48,597   aprx project is read
-INFO   2023-03-13 19:03:12,584   All setting of the logging is done
-INFO   2023-03-13 19:03:12,587   All paths are defined
-INFO   2023-03-13 19:03:12,763   aprx project is read
-INFO   2023-03-13 19:14:58,855   All setting of the logging is done
-INFO   2023-03-13 19:14:58,858   All paths are defined
-INFO   2023-03-13 19:14:59,057   aprx project is read
-INFO   2023-03-13 19:23:53,164   All setting of the logging is done
-INFO   2023-03-13 19:23:53,167   All paths are defined
-INFO   2023-03-13 19:23:53,378   aprx project is read
-INFO   2023-03-13 19:46:01,138   All setting of the logging is done
-INFO   2023-03-13 19:46:01,139   All paths are defined
-INFO   2023-03-13 19:46:01,346   aprx project is read
-INFO   2023-03-13 19:46:37,597   All setting of the logging is done
-INFO   2023-03-13 19:46:37,599   All paths are defined
-INFO   2023-03-13 19:46:37,784   aprx project is read
-INFO   2023-03-13 19:47:45,774   All setting of the logging is done
-INFO   2023-03-13 19:47:45,776   All paths are defined
-INFO   2023-03-13 19:47:45,953   aprx project is read
-INFO   2023-03-13 19:49:20,774   All setting of the logging is done
-INFO   2023-03-13 19:49:20,777   All paths are defined
-INFO   2023-03-13 19:49:20,964   aprx project is read
-INFO   2023-03-13 19:49:48,272   All setting of the logging is done
-INFO   2023-03-13 19:49:48,273   All paths are defined
-INFO   2023-03-13 19:49:48,448   aprx project is read
-INFO   2023-03-13 19:50:32,481   All setting of the logging is done
-INFO   2023-03-13 19:50:32,483   All paths are defined
-INFO   2023-03-13 19:50:32,672   aprx project is read
-INFO   2023-03-13 19:52:20,475   All setting of the logging is done
-INFO   2023-03-13 19:52:20,476   All paths are defined
-INFO   2023-03-13 19:52:20,679   aprx project is read
-INFO   2023-03-13 19:56:50,056   All setting of the logging is done
-INFO   2023-03-13 19:56:50,061   All paths are defined
-INFO   2023-03-13 19:56:50,555   aprx project is read
-INFO   2023-03-13 19:57:16,854   All setting of the logging is done
-INFO   2023-03-13 19:57:16,856   All paths are defined
-INFO   2023-03-13 19:57:17,036   aprx project is read
-INFO   2023-03-13 19:59:11,892   All setting of the logging is done
-INFO   2023-03-13 19:59:11,894   All paths are defined
-INFO   2023-03-13 19:59:12,109   aprx project is read
-INFO   2023-03-14 10:06:40,094   All setting of the logging is done
-INFO   2023-03-14 10:06:40,103   All paths are defined
-INFO   2023-03-14 10:06:41,551   aprx project is read
-INFO   2023-03-14 11:56:44,677   All setting of the logging is done
-INFO   2023-03-14 11:56:44,681   All paths are defined
-INFO   2023-03-14 11:56:46,035   aprx project is read
-INFO   2023-03-14 11:58:20,796   All setting of the logging is done
-INFO   2023-03-14 11:58:20,798   All paths are defined
-INFO   2023-03-14 11:58:20,969   aprx project is read
-INFO   2023-03-14 12:01:42,118   All setting of the logging is done
-INFO   2023-03-14 12:01:42,120   All paths are defined
-INFO   2023-03-14 12:01:42,295   aprx project is read
-INFO   2023-03-14 12:06:04,577   All setting of the logging is done
-INFO   2023-03-14 12:06:04,579   All paths are defined
-INFO   2023-03-14 12:06:04,749   aprx project is read
-INFO   2023-03-14 12:41:37,905   All setting of the logging is done
-INFO   2023-03-14 12:41:37,908   All paths are defined
-INFO   2023-03-14 12:41:38,147   aprx project is read
-INFO   2023-03-14 12:42:24,943   All setting of the logging is done
-INFO   2023-03-14 12:42:24,945   All paths are defined
-INFO   2023-03-14 12:42:25,135   aprx project is read
-INFO   2023-03-14 12:43:51,662   All setting of the logging is done
-INFO   2023-03-14 12:43:51,663   All paths are defined
-INFO   2023-03-14 12:43:51,846   aprx project is read
-INFO   2023-03-14 12:45:44,893   All setting of the logging is done
-INFO   2023-03-14 12:45:44,895   All paths are defined
-INFO   2023-03-14 12:45:45,100   aprx project is read
-INFO   2023-03-14 13:23:02,126   All setting of the logging is done
-INFO   2023-03-14 13:23:02,129   All paths are defined
-INFO   2023-03-14 13:23:02,415   aprx project is read
-INFO   2023-03-14 13:23:20,193   All setting of the logging is done
-INFO   2023-03-14 13:23:20,195   All paths are defined
-INFO   2023-03-14 13:23:20,370   aprx project is read
-INFO   2023-03-14 13:54:36,440   All setting of the logging is done
-INFO   2023-03-14 13:54:36,442   All paths are defined
-INFO   2023-03-14 13:54:36,680   aprx project is read
-INFO   2023-03-14 13:58:22,507   All setting of the logging is done
-INFO   2023-03-14 13:58:22,509   All paths are defined
-INFO   2023-03-14 13:58:22,687   aprx project is read
-INFO   2023-03-14 14:00:31,106   All setting of the logging is done
-INFO   2023-03-14 14:00:31,109   All paths are defined
-INFO   2023-03-14 14:00:31,322   aprx project is read
-INFO   2023-03-14 14:03:35,410   All setting of the logging is done
-INFO   2023-03-14 14:03:35,412   All paths are defined
-INFO   2023-03-14 14:03:35,591   aprx project is read
-INFO   2023-03-14 14:04:22,074   All setting of the logging is done
-INFO   2023-03-14 14:04:22,075   All paths are defined
-INFO   2023-03-14 14:04:22,251   aprx project is read
-INFO   2023-03-14 14:20:05,433   All setting of the logging is done
-INFO   2023-03-14 14:20:05,434   All paths are defined
-INFO   2023-03-14 14:20:05,629   aprx project is read
-INFO   2023-03-14 14:22:08,945   All setting of the logging is done
-INFO   2023-03-14 14:22:08,945   All paths are defined
-INFO   2023-03-14 14:22:09,135   aprx project is read
-INFO   2023-03-14 14:27:46,121   All setting of the logging is done
-INFO   2023-03-14 14:27:46,122   All paths are defined
-INFO   2023-03-14 14:27:46,348   aprx project is read
-INFO   2023-03-14 14:51:57,001   All setting of the logging is done
-INFO   2023-03-14 14:51:57,003   All paths are defined
-INFO   2023-03-14 14:51:57,329   aprx project is read
-INFO   2023-03-14 14:55:49,625   All setting of the logging is done
-INFO   2023-03-14 14:55:49,626   All paths are defined
-INFO   2023-03-14 14:55:49,799   aprx project is read
-INFO   2023-03-14 15:00:41,855   All setting of the logging is done
-INFO   2023-03-14 15:00:41,857   All paths are defined
-INFO   2023-03-14 15:00:42,426   aprx project is read
-INFO   2023-03-14 15:01:55,412   All setting of the logging is done
-INFO   2023-03-14 15:01:55,413   All paths are defined
-INFO   2023-03-14 15:01:55,598   aprx project is read
-INFO   2023-03-14 15:02:19,803   All setting of the logging is done
-INFO   2023-03-14 15:02:19,803   All paths are defined
-INFO   2023-03-14 15:02:19,983   aprx project is read
-INFO   2023-03-14 15:03:05,593   All setting of the logging is done
-INFO   2023-03-14 15:03:05,597   All paths are defined
-INFO   2023-03-14 15:03:05,778   aprx project is read
-INFO   2023-03-14 15:03:52,268   All setting of the logging is done
-INFO   2023-03-14 15:03:52,270   All paths are defined
-INFO   2023-03-14 15:03:52,453   aprx project is read
-INFO   2023-03-14 15:04:12,922   All setting of the logging is done
-INFO   2023-03-14 15:04:12,923   All paths are defined
-INFO   2023-03-14 15:04:13,106   aprx project is read
-INFO   2023-03-14 15:04:32,972   All setting of the logging is done
-INFO   2023-03-14 15:04:32,974   All paths are defined
-INFO   2023-03-14 15:04:33,149   aprx project is read
-INFO   2023-03-14 15:05:12,996   All setting of the logging is done
-INFO   2023-03-14 15:05:12,997   All paths are defined
-INFO   2023-03-14 15:05:13,178   aprx project is read
-INFO   2023-03-14 15:06:41,953   All setting of the logging is done
-INFO   2023-03-14 15:06:41,955   All paths are defined
-INFO   2023-03-14 15:06:42,121   aprx project is read
-INFO   2023-03-14 15:07:30,210   All setting of the logging is done
-INFO   2023-03-14 15:07:30,211   All paths are defined
-INFO   2023-03-14 15:07:30,389   aprx project is read
-INFO   2023-03-14 15:09:39,333   All setting of the logging is done
-INFO   2023-03-14 15:09:39,334   All paths are defined
-INFO   2023-03-14 15:09:39,560   aprx project is read
-INFO   2023-03-14 15:10:26,379   All setting of the logging is done
-INFO   2023-03-14 15:10:26,381   All paths are defined
-INFO   2023-03-14 15:10:26,607   aprx project is read
-INFO   2023-03-14 15:11:47,073   All setting of the logging is done
-INFO   2023-03-14 15:11:47,073   All paths are defined
-INFO   2023-03-14 15:11:47,276   aprx project is read
-INFO   2023-03-14 15:14:32,457   All setting of the logging is done
-INFO   2023-03-14 15:14:32,458   All paths are defined
-INFO   2023-03-14 15:14:32,646   aprx project is read
-INFO   2023-03-14 15:15:46,552   All setting of the logging is done
-INFO   2023-03-14 15:15:46,553   All paths are defined
-INFO   2023-03-14 15:15:46,781   aprx project is read
-INFO   2023-03-14 15:21:05,262   All setting of the logging is done
-INFO   2023-03-14 15:21:05,264   All paths are defined
-INFO   2023-03-14 15:21:05,474   aprx project is read
-INFO   2023-03-14 15:22:46,088   All setting of the logging is done
-INFO   2023-03-14 15:22:46,089   All paths are defined
-INFO   2023-03-14 15:22:46,282   aprx project is read
-INFO   2023-03-14 15:23:45,342   All setting of the logging is done
-INFO   2023-03-14 15:23:45,343   All paths are defined
-INFO   2023-03-14 15:23:45,552   aprx project is read
-INFO   2023-03-14 15:30:47,775   All setting of the logging is done
-INFO   2023-03-14 15:30:47,777   All paths are defined
-INFO   2023-03-14 15:30:47,978   aprx project is read
-INFO   2023-03-14 15:31:43,515   All setting of the logging is done
-INFO   2023-03-14 15:31:43,516   All paths are defined
-INFO   2023-03-14 15:31:43,708   aprx project is read
-INFO   2023-03-14 16:00:17,712   All setting of the logging is done
-INFO   2023-03-14 16:00:17,712   All paths are defined
-INFO   2023-03-14 16:00:17,899   aprx project is read
-INFO   2023-03-14 16:01:51,905   All setting of the logging is done
-INFO   2023-03-14 16:01:51,906   All paths are defined
-INFO   2023-03-14 16:01:52,088   aprx project is read
-INFO   2023-03-14 16:03:03,117   All setting of the logging is done
-INFO   2023-03-14 16:03:03,118   All paths are defined
-INFO   2023-03-14 16:03:03,314   aprx project is read
-INFO   2023-03-14 16:06:57,082   All setting of the logging is done
-INFO   2023-03-14 16:06:57,084   All paths are defined
-INFO   2023-03-14 16:06:57,302   aprx project is read
-INFO   2023-03-14 16:16:19,571   All setting of the logging is done
-INFO   2023-03-14 16:16:19,574   All paths are defined
-INFO   2023-03-14 16:16:19,784   aprx project is read
-INFO   2023-03-14 17:13:17,074   All setting of the logging is done
-INFO   2023-03-14 17:13:17,075   All paths are defined
-INFO   2023-03-14 17:13:55,705   All setting of the logging is done
-INFO   2023-03-14 17:13:55,706   All paths are defined
-INFO   2023-03-14 17:21:56,085   All setting of the logging is done
-INFO   2023-03-14 17:27:25,301   All setting of the logging is done
-INFO   2023-03-14 17:28:12,727   All setting of the logging is done
-INFO   2023-03-14 17:28:12,728   All paths are defined
-INFO   2023-03-14 17:28:52,488   All setting of the logging is done
-INFO   2023-03-14 17:28:52,489   All paths are defined
-INFO   2023-03-14 17:42:53,463   All setting of the logging is done
-INFO   2023-03-14 17:42:53,464   All paths are defined
-INFO   2023-03-14 17:42:53,732   Buffer of the line is finished
-INFO   2023-03-14 17:42:54,197   Intersection is finished
-INFO   2023-03-14 17:42:54,198   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:54,199   Buffer of the line is finished
-INFO   2023-03-14 17:42:54,288   Intersection is finished
-INFO   2023-03-14 17:42:54,290   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:54,291   Buffer of the line is finished
-INFO   2023-03-14 17:42:54,382   Intersection is finished
-INFO   2023-03-14 17:42:54,383   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:54,384   Buffer of the line is finished
-INFO   2023-03-14 17:42:54,481   Intersection is finished
-INFO   2023-03-14 17:42:54,483   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:54,484   Buffer of the line is finished
-INFO   2023-03-14 17:42:54,573   Intersection is finished
-INFO   2023-03-14 17:42:54,575   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:54,575   Buffer of the line is finished
-INFO   2023-03-14 17:42:54,663   Intersection is finished
-INFO   2023-03-14 17:42:54,664   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:54,665   Buffer of the line is finished
-INFO   2023-03-14 17:42:54,748   Intersection is finished
-INFO   2023-03-14 17:42:54,749   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:54,749   Buffer of the line is finished
-INFO   2023-03-14 17:42:54,841   Intersection is finished
-INFO   2023-03-14 17:42:54,842   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:54,843   Buffer of the line is finished
-INFO   2023-03-14 17:42:54,930   Intersection is finished
-INFO   2023-03-14 17:42:54,932   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:54,932   Buffer of the line is finished
-INFO   2023-03-14 17:42:55,017   Intersection is finished
-INFO   2023-03-14 17:42:55,019   Geometry of the intersection points are extracted
-INFO   2023-03-14 17:42:55,461   Merging all the extensions are done
-INFO   2023-03-14 17:42:55,462   The script finished successfully
+INFO   2023-03-17 11:25:39,565   All setting of the logging is done
+INFO   2023-03-17 11:25:39,568   All paths are defined
+INFO   2023-03-17 11:39:05,331   All setting of the logging is done
+INFO   2023-03-17 11:39:05,332   All paths are defined
+INFO   2023-03-17 11:39:06,783   Buffer of the line is finished
+INFO   2023-03-17 11:39:07,106   Intersection is finished
+INFO   2023-03-17 11:39:07,109   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:07,149   Buffer of the line is finished
+INFO   2023-03-17 11:39:07,399   Intersection is finished
+INFO   2023-03-17 11:39:07,400   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:07,441   Buffer of the line is finished
+INFO   2023-03-17 11:39:07,679   Intersection is finished
+INFO   2023-03-17 11:39:07,681   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:07,714   Buffer of the line is finished
+INFO   2023-03-17 11:39:07,941   Intersection is finished
+INFO   2023-03-17 11:39:07,942   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:07,980   Buffer of the line is finished
+INFO   2023-03-17 11:39:08,214   Intersection is finished
+INFO   2023-03-17 11:39:08,215   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:08,246   Buffer of the line is finished
+INFO   2023-03-17 11:39:08,450   Intersection is finished
+INFO   2023-03-17 11:39:08,452   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:08,487   Buffer of the line is finished
+INFO   2023-03-17 11:39:08,708   Intersection is finished
+INFO   2023-03-17 11:39:08,709   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:08,742   Buffer of the line is finished
+INFO   2023-03-17 11:39:08,953   Intersection is finished
+INFO   2023-03-17 11:39:08,955   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:08,988   Buffer of the line is finished
+INFO   2023-03-17 11:39:09,191   Intersection is finished
+INFO   2023-03-17 11:39:09,192   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:09,229   Buffer of the line is finished
+INFO   2023-03-17 11:39:09,469   Intersection is finished
+INFO   2023-03-17 11:39:09,471   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:09,519   Buffer of the line is finished
+INFO   2023-03-17 11:39:09,764   Intersection is finished
+INFO   2023-03-17 11:39:09,766   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:09,802   Buffer of the line is finished
+INFO   2023-03-17 11:39:10,032   Intersection is finished
+INFO   2023-03-17 11:39:10,034   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:10,077   Buffer of the line is finished
+INFO   2023-03-17 11:39:10,297   Intersection is finished
+INFO   2023-03-17 11:39:10,299   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:10,361   Buffer of the line is finished
+INFO   2023-03-17 11:39:10,572   Intersection is finished
+INFO   2023-03-17 11:39:10,574   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:10,615   Buffer of the line is finished
+INFO   2023-03-17 11:39:10,879   Intersection is finished
+INFO   2023-03-17 11:39:10,880   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:10,936   Buffer of the line is finished
+INFO   2023-03-17 11:39:11,182   Intersection is finished
+INFO   2023-03-17 11:39:11,185   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:11,224   Buffer of the line is finished
+INFO   2023-03-17 11:39:11,457   Intersection is finished
+INFO   2023-03-17 11:39:11,459   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:11,492   Buffer of the line is finished
+INFO   2023-03-17 11:39:11,709   Intersection is finished
+INFO   2023-03-17 11:39:11,710   Geometry of the intersection points are extracted
+INFO   2023-03-17 11:39:12,100   Merging all the extensions are done
+INFO   2023-03-17 11:39:12,100   The script finished successfully
+INFO   2023-03-17 12:06:06,057   All setting of the logging is done
+INFO   2023-03-17 12:06:06,057   All paths are defined
+INFO   2023-03-17 12:06:06,724   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:06,957   Intersection is finished
+INFO   2023-03-17 12:06:06,959   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:06,991   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:07,198   Intersection is finished
+INFO   2023-03-17 12:06:07,199   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:07,233   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:07,434   Intersection is finished
+INFO   2023-03-17 12:06:07,436   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:07,469   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:07,672   Intersection is finished
+INFO   2023-03-17 12:06:07,673   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:07,708   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:07,914   Intersection is finished
+INFO   2023-03-17 12:06:07,916   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:07,949   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:08,155   Intersection is finished
+INFO   2023-03-17 12:06:08,155   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:08,198   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:08,405   Intersection is finished
+INFO   2023-03-17 12:06:08,408   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:08,441   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:08,662   Intersection is finished
+INFO   2023-03-17 12:06:08,663   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:08,699   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:08,922   Intersection is finished
+INFO   2023-03-17 12:06:08,924   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:08,956   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:09,152   Intersection is finished
+INFO   2023-03-17 12:06:09,153   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:09,190   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:09,394   Intersection is finished
+INFO   2023-03-17 12:06:09,396   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:09,429   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:09,631   Intersection is finished
+INFO   2023-03-17 12:06:09,633   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:09,667   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:09,872   Intersection is finished
+INFO   2023-03-17 12:06:09,874   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:09,907   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:10,109   Intersection is finished
+INFO   2023-03-17 12:06:10,110   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:10,144   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:10,361   Intersection is finished
+INFO   2023-03-17 12:06:10,362   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:10,395   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:10,603   Intersection is finished
+INFO   2023-03-17 12:06:10,603   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:10,637   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:10,843   Intersection is finished
+INFO   2023-03-17 12:06:10,845   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:10,875   Buffer of the polyline object is finished
+INFO   2023-03-17 12:06:11,074   Intersection is finished
+INFO   2023-03-17 12:06:11,076   Geometry of the intersection points are extracted
+INFO   2023-03-17 12:06:11,447   Merging all the extensions are done
+INFO   2023-03-17 12:06:11,447   The script finished successfully
