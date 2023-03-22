@@ -1,0 +1,1 @@
+﻿arcpy.management.AddJoin(     in_layer_or_view="sample",     in_field="ID",     join_table="Engineering",     join_field="ID",     join_type="KEEP_ALL",     index_join_fields="NO_INDEX_JOIN_FIELDS" )

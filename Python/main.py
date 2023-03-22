@@ -14,6 +14,7 @@ import configparser
 # 2) Boundary points of the polyline
 def get_geo(data, ind, buffer, wkid):
     folder = "memory"
+    # folder = "C:\Projects\LineExtention\PolyLine_Extension\ArcGIS\ArcGIS.gdb"
     # Create the point object
     pt: arcpy.Point = data[ind]
     # Define the Spatial reference
@@ -45,6 +46,7 @@ def get_opposite_coordinates(center_coord, intersect_coord):
 # 1) Extension part of the polyline
 def get_extension_line(fc, data, ind, buffer, wkid, i) -> arcpy.Polyline:
     folder = "memory"
+    # folder = "C:\Projects\LineExtention\PolyLine_Extension\ArcGIS\ArcGIS.gdb"
     try:
         point_buffered, point_center = get_geo(data, ind, buffer, wkid)
     except Exception as e:
@@ -92,7 +94,8 @@ def main(fc, output_fc, wkid):
     extended_line = []
     # counter is the number of the row of the interested polyline
     counter = 0
-    with arcpy.da.SearchCursor(fc, ["SHAPE@", buffer_start, buffer_end]) as cursor:
+
+    with arcpy.da.SearchCursor(fc, ["SHAPE@", buffer_start, buffer_end, ID]) as cursor:
         for row in cursor:
             # Access the geometry object
             geom_line: arcpy.Polyline = row[0]
@@ -105,11 +108,30 @@ def main(fc, output_fc, wkid):
             # Merge line with the extensions
             geom_line = geom_line.union(first_line)
             geom_line = geom_line.union(last_line)
-            extended_line.append(geom_line)
+            extended_line.append((geom_line, row[3]))
             counter += 1
     try:
-        # Generate the output
-        arcpy.management.Merge(extended_line, output_fc)
+        # Create Polyline Featureclass
+        arcpy.CreateFeatureclass_management(gdb_path, output_fc.split("\\")[-1], "POLYLINE")
+        # Create ID field in the Polyline  featureclass
+        arcpy.AddField_management(output_fc, ID, "Long", 9)
+        # Insert the list of polylines into the Featureclass
+        with arcpy.da.InsertCursor(output_fc, ["SHAPE@", ID]) as cursor:
+            for polyline in extended_line:
+                cursor.insertRow(polyline)
+
+        fc_path = os.path.join(gdb_path, fc_name)
+        arcpy.MakeFeatureLayer_management(output_fc, output_fc.split("\\")[-1])
+        # AddJoin of two featureclasses
+        arcpy.management.JoinField(
+            in_data=output_fc.split("\\")[-1],
+            in_field=ID,
+            join_table=fc_path,
+            join_field=ID,
+            fields=None,
+            fm_option="NOT_USE_FM",
+            field_mapping=None
+        )
         logging.info("Merging all the extensions are done")
     except Exception as e:
         logging.error("There is error {} in doing merge".format(e))
@@ -132,6 +154,7 @@ if __name__ == '__main__':
         buffer_start = config.get('config', 'buffer_start')
         buffer_end = config.get('config', 'buffer_end')
         wkid = config.getint('config', 'wkid')
+        ID = config.get('config', 'unique_id')
         logging.info("All paths are defined")
     except Exception as ex:
         logging.error("There is an error {} in reading config.ini file".format(ex))

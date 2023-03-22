@@ -1,118 +1,58 @@
-INFO   2023-03-17 11:25:39,565   All setting of the logging is done
-INFO   2023-03-17 11:25:39,568   All paths are defined
-INFO   2023-03-17 11:39:05,331   All setting of the logging is done
-INFO   2023-03-17 11:39:05,332   All paths are defined
-INFO   2023-03-17 11:39:06,783   Buffer of the line is finished
-INFO   2023-03-17 11:39:07,106   Intersection is finished
-INFO   2023-03-17 11:39:07,109   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:07,149   Buffer of the line is finished
-INFO   2023-03-17 11:39:07,399   Intersection is finished
-INFO   2023-03-17 11:39:07,400   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:07,441   Buffer of the line is finished
-INFO   2023-03-17 11:39:07,679   Intersection is finished
-INFO   2023-03-17 11:39:07,681   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:07,714   Buffer of the line is finished
-INFO   2023-03-17 11:39:07,941   Intersection is finished
-INFO   2023-03-17 11:39:07,942   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:07,980   Buffer of the line is finished
-INFO   2023-03-17 11:39:08,214   Intersection is finished
-INFO   2023-03-17 11:39:08,215   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:08,246   Buffer of the line is finished
-INFO   2023-03-17 11:39:08,450   Intersection is finished
-INFO   2023-03-17 11:39:08,452   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:08,487   Buffer of the line is finished
-INFO   2023-03-17 11:39:08,708   Intersection is finished
-INFO   2023-03-17 11:39:08,709   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:08,742   Buffer of the line is finished
-INFO   2023-03-17 11:39:08,953   Intersection is finished
-INFO   2023-03-17 11:39:08,955   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:08,988   Buffer of the line is finished
-INFO   2023-03-17 11:39:09,191   Intersection is finished
-INFO   2023-03-17 11:39:09,192   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:09,229   Buffer of the line is finished
-INFO   2023-03-17 11:39:09,469   Intersection is finished
-INFO   2023-03-17 11:39:09,471   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:09,519   Buffer of the line is finished
-INFO   2023-03-17 11:39:09,764   Intersection is finished
-INFO   2023-03-17 11:39:09,766   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:09,802   Buffer of the line is finished
-INFO   2023-03-17 11:39:10,032   Intersection is finished
-INFO   2023-03-17 11:39:10,034   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:10,077   Buffer of the line is finished
-INFO   2023-03-17 11:39:10,297   Intersection is finished
-INFO   2023-03-17 11:39:10,299   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:10,361   Buffer of the line is finished
-INFO   2023-03-17 11:39:10,572   Intersection is finished
-INFO   2023-03-17 11:39:10,574   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:10,615   Buffer of the line is finished
-INFO   2023-03-17 11:39:10,879   Intersection is finished
-INFO   2023-03-17 11:39:10,880   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:10,936   Buffer of the line is finished
-INFO   2023-03-17 11:39:11,182   Intersection is finished
-INFO   2023-03-17 11:39:11,185   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:11,224   Buffer of the line is finished
-INFO   2023-03-17 11:39:11,457   Intersection is finished
-INFO   2023-03-17 11:39:11,459   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:11,492   Buffer of the line is finished
-INFO   2023-03-17 11:39:11,709   Intersection is finished
-INFO   2023-03-17 11:39:11,710   Geometry of the intersection points are extracted
-INFO   2023-03-17 11:39:12,100   Merging all the extensions are done
-INFO   2023-03-17 11:39:12,100   The script finished successfully
-INFO   2023-03-17 12:06:06,057   All setting of the logging is done
-INFO   2023-03-17 12:06:06,057   All paths are defined
-INFO   2023-03-17 12:06:06,724   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:06,957   Intersection is finished
-INFO   2023-03-17 12:06:06,959   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:06,991   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:07,198   Intersection is finished
-INFO   2023-03-17 12:06:07,199   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:07,233   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:07,434   Intersection is finished
-INFO   2023-03-17 12:06:07,436   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:07,469   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:07,672   Intersection is finished
-INFO   2023-03-17 12:06:07,673   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:07,708   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:07,914   Intersection is finished
-INFO   2023-03-17 12:06:07,916   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:07,949   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:08,155   Intersection is finished
-INFO   2023-03-17 12:06:08,155   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:08,198   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:08,405   Intersection is finished
-INFO   2023-03-17 12:06:08,408   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:08,441   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:08,662   Intersection is finished
-INFO   2023-03-17 12:06:08,663   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:08,699   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:08,922   Intersection is finished
-INFO   2023-03-17 12:06:08,924   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:08,956   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:09,152   Intersection is finished
-INFO   2023-03-17 12:06:09,153   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:09,190   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:09,394   Intersection is finished
-INFO   2023-03-17 12:06:09,396   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:09,429   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:09,631   Intersection is finished
-INFO   2023-03-17 12:06:09,633   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:09,667   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:09,872   Intersection is finished
-INFO   2023-03-17 12:06:09,874   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:09,907   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:10,109   Intersection is finished
-INFO   2023-03-17 12:06:10,110   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:10,144   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:10,361   Intersection is finished
-INFO   2023-03-17 12:06:10,362   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:10,395   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:10,603   Intersection is finished
-INFO   2023-03-17 12:06:10,603   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:10,637   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:10,843   Intersection is finished
-INFO   2023-03-17 12:06:10,845   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:10,875   Buffer of the polyline object is finished
-INFO   2023-03-17 12:06:11,074   Intersection is finished
-INFO   2023-03-17 12:06:11,076   Geometry of the intersection points are extracted
-INFO   2023-03-17 12:06:11,447   Merging all the extensions are done
-INFO   2023-03-17 12:06:11,447   The script finished successfully
+INFO   2023-03-22 16:54:44,615   All setting of the logging is done
+INFO   2023-03-22 16:54:44,616   All paths are defined
+INFO   2023-03-22 16:54:45,298   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:45,737   Intersection is finished
+INFO   2023-03-22 16:54:45,739   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:45,777   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:46,155   Intersection is finished
+INFO   2023-03-22 16:54:46,157   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:46,197   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:46,608   Intersection is finished
+INFO   2023-03-22 16:54:46,611   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:46,649   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:47,062   Intersection is finished
+INFO   2023-03-22 16:54:47,064   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:47,098   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:47,508   Intersection is finished
+INFO   2023-03-22 16:54:47,510   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:47,546   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:47,928   Intersection is finished
+INFO   2023-03-22 16:54:47,930   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:47,965   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:48,371   Intersection is finished
+INFO   2023-03-22 16:54:48,373   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:48,408   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:48,794   Intersection is finished
+INFO   2023-03-22 16:54:48,796   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:48,833   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:49,223   Intersection is finished
+INFO   2023-03-22 16:54:49,225   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:49,260   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:49,641   Intersection is finished
+INFO   2023-03-22 16:54:49,643   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:49,678   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:50,060   Intersection is finished
+INFO   2023-03-22 16:54:50,062   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:50,095   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:50,613   Intersection is finished
+INFO   2023-03-22 16:54:50,616   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:50,652   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:51,054   Intersection is finished
+INFO   2023-03-22 16:54:51,056   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:51,093   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:51,501   Intersection is finished
+INFO   2023-03-22 16:54:51,504   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:51,549   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:51,999   Intersection is finished
+INFO   2023-03-22 16:54:52,002   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:52,044   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:52,502   Intersection is finished
+INFO   2023-03-22 16:54:52,505   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:52,542   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:52,952   Intersection is finished
+INFO   2023-03-22 16:54:52,955   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:53,002   Buffer of the polyline object is finished
+INFO   2023-03-22 16:54:53,445   Intersection is finished
+INFO   2023-03-22 16:54:53,448   Geometry of the intersection points are extracted
+INFO   2023-03-22 16:54:57,936   Merging all the extensions are done
+INFO   2023-03-22 16:54:57,936   The script finished successfully
